@@ -1,0 +1,15 @@
+C:\Users\Ramalepa\source\repos\mobile app dev\mod1AssingmntB\bin\Debug\net6.0\mod1AssingmntB.exe
+C:\Users\Ramalepa\source\repos\mobile app dev\mod1AssingmntB\bin\Debug\net6.0\mod1AssingmntB.deps.json
+C:\Users\Ramalepa\source\repos\mobile app dev\mod1AssingmntB\bin\Debug\net6.0\mod1AssingmntB.runtimeconfig.json
+C:\Users\Ramalepa\source\repos\mobile app dev\mod1AssingmntB\bin\Debug\net6.0\mod1AssingmntB.dll
+C:\Users\Ramalepa\source\repos\mobile app dev\mod1AssingmntB\bin\Debug\net6.0\mod1AssingmntB.pdb
+C:\Users\Ramalepa\source\repos\mobile app dev\mod1AssingmntB\obj\Debug\net6.0\mod1AssingmntB.csproj.AssemblyReference.cache
+C:\Users\Ramalepa\source\repos\mobile app dev\mod1AssingmntB\obj\Debug\net6.0\mod1AssingmntB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramalepa\source\repos\mobile app dev\mod1AssingmntB\obj\Debug\net6.0\mod1AssingmntB.AssemblyInfoInputs.cache
+C:\Users\Ramalepa\source\repos\mobile app dev\mod1AssingmntB\obj\Debug\net6.0\mod1AssingmntB.AssemblyInfo.cs
+C:\Users\Ramalepa\source\repos\mobile app dev\mod1AssingmntB\obj\Debug\net6.0\mod1AssingmntB.csproj.CoreCompileInputs.cache
+C:\Users\Ramalepa\source\repos\mobile app dev\mod1AssingmntB\obj\Debug\net6.0\mod1AssingmntB.dll
+C:\Users\Ramalepa\source\repos\mobile app dev\mod1AssingmntB\obj\Debug\net6.0\refint\mod1AssingmntB.dll
+C:\Users\Ramalepa\source\repos\mobile app dev\mod1AssingmntB\obj\Debug\net6.0\mod1AssingmntB.pdb
+C:\Users\Ramalepa\source\repos\mobile app dev\mod1AssingmntB\obj\Debug\net6.0\mod1AssingmntB.genruntimeconfig.cache
+C:\Users\Ramalepa\source\repos\mobile app dev\mod1AssingmntB\obj\Debug\net6.0\ref\mod1AssingmntB.dll
